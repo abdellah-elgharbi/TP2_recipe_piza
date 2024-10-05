@@ -40,7 +40,7 @@ Le projet est structuré en plusieurs packages pour faciliter la maintenance et 
 ## **Installation**
 1. Clonez ce dépôt dans votre environnement local :
    ```bash
-   git clone https://github.com/username/recettes-android.git
+   git clone https://github.com/abdellah-elgharbi/TP2_recipe_piza.git
    ```
 2. Ouvrez le projet dans **Android Studio**.
 3. Lancer l'application en utilisant un émulateur Android ou un appareil physique connecté.
